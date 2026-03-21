@@ -10,3 +10,4 @@ Pour résumer :
 - Tenergy est le nom de l'application
 - Sidelc est le nom du projet
 
+Décompresser le fichier Sources/MariaDB/Dump/tenergy-dev-20260123.sql.7z
